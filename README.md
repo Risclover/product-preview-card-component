@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-pPxoAuUp8s)
 - [Live Site URL](https://risclover.github.io/product-preview-card-component/)
 
 ## Built with
